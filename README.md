@@ -2,6 +2,6 @@ This is Loan Calculator app built with Vanilla_JavaScript. UI of this app is don
 
 The purpose of this app was to learn the manipulation of DOM using the Vanilla_Javascript. How to use setTimeout to display certain message to user for specific time of period.
 
-To run the project, Download or clone it on your machine and open index.html on your browser.
+Live Demo: https://shoaibjalal.github.io/LoanCalculatingApp/.
 
 <img src="img/screenshot.PNG" />
